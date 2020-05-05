@@ -35,3 +35,5 @@ Explore and refine the employee database for Pewlett Hackard and determine how m
 ## Challenge Summary
 
 The next steps I would reccomend would be to, filter the mentorship.csv further by seinority at the company to ensure those deserved ascend into their next role. A key limitation I found was that we are not aware of the location of these employees retiring and eligible for the mentorship. I would try to acquire that data to see how many roles will need to be filled based on location and department before taking next steps.
+
+![EmployeeDB](https://github.com/alyssavonyokes/Pewlett-Hackard-Analysis/blob/master/EmployeeDB.png)
